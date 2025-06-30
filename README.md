@@ -5,6 +5,7 @@ This project is a collection of classic data structure implementations written i
 ##  Implemented Structures
 
 - Singly Linked List
+- Double Linked List
 - Stack (LIFO)
 - Queue (FIFO)
 - Binary Search Tree (BST)

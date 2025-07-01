@@ -10,4 +10,5 @@ This project is a collection of classic data structure implementations written i
 - Queue (FIFO)
 - Binary Search Tree (BST)
 - Hash Table
-- *(Optional)* Graph (Adjacency List/Matrix, BFS, DFS)
+- MaxHeap
+- Binary Search Tree (BST)

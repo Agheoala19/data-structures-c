@@ -16,7 +16,7 @@ void push(Node** top, int info) {
   newNode->info = info;
   newNode->next = *top;
   *top = newNode;
-}
+} // push function inserts nodes at the head of the stack (FIFO - First In First Out)
 
 int pop(Node** top) {
   if(*top == NULL)
@@ -49,6 +49,8 @@ void main() {
   push(&stack, 10);
   push(&stack, 20);
   push(&stack, 30);
+
+  printStack(stack); // 30 20 10
 
   printf("Pop node: %d\n", pop(&stack)); //will return  30
   printf("Pop node: %d\n", pop(&stack)); //will return  20

@@ -11,4 +11,3 @@ This project is a collection of classic data structure implementations written i
 - Binary Search Tree (BST)
 - Hash Table
 - MaxHeap
-- Binary Search Tree (BST)
